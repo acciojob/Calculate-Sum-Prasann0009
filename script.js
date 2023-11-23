@@ -6,5 +6,5 @@ const n2=parseInt(document.getElementById("n2").value);
 
 let sum = n1+n2;
    
-    document.getElementById("sum").innerText = sum;
+    document.getElementById("Sum").innerText = sum;
 }
